@@ -1,0 +1,15 @@
+@import url("../public/assets/css/animate.css");
+@import url("../public/assets/bootstrap/css/bootstrap.min.css");
+@import url("../public/assets/css/font-awesome.min.css");
+@import url("../public/assets/css/ionicons.min.css");
+@import url("../public/assets/owlcarousel/css/owl.carousel.min.css");
+@import url("../public/assets/owlcarousel/css/owl.theme.default.min.css");
+@import url("../public/assets/css/magnific-popup.css");
+@import url("../public/assets/css/spop.min.css");
+@import url("../public/assets/css/style.css");
+@import url("../public/assets/css/responsive.css");
+@import url("../public/assets/color/theme.css");
+
+.body-background {
+  background-color: #5957cd;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "airdrop-contract",
+  "version": "1.0.0",
+  "description": "Token Airdrop with Referral Smart Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile",
+    "deploy:localhost": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:holesky": "hardhat run scripts/deploy.js --network holesky",
+    "verify:holesky": "hardhat verify --network holesky",
+    "node": "hardhat node",
+    "clean": "hardhat clean"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "chai": "^4.3.7",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.19.1",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
+}

@@ -28,11 +28,11 @@ Ethers.js/Wagmi
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/supply-chain-management-project-source-code)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-token-airdrop-dapp-with-referral-program)
 
 #### Setup Video
 
-- [Final Code Setup video](https://www.youtube.com/watch?v=LlX-39ywxsU)
+- [Final Code Setup video](https://youtu.be/br5uGd-I42k?si=AsM-L1UNELspjD8S)
 
 ```
   WATCH: Setup & Demo Of Project
